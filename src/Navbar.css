@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+}
+#a {
+    color: aliceblue;
+    border-radius: 17px;
+    text-align: center;
+    padding: 7px;
+
+}
+
+#a:hover {
+    font-family: cursive;
+    background-color: rgb(110, 153, 153);
+    color: rgb(146, 127, 103);
+    border-radius: 17px;
+
+}
+#title{
+    transition:  0.4s ease-in-out ;
+}
+#title:hover{
+    transform:scale(1.2)
+}
